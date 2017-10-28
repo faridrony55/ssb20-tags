@@ -1,0 +1,28 @@
+body{ 
+	margin: 0;
+}
+table{
+	border-collapse: collapse;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+
+    font-size: 24px
+
+}
+tr{
+
+}
+td{
+	  border:1px solid white;  
+}
+th{
+	  border:1px solid white;  
+}
+.table-head{
+	background: skyblue;
+}
+.red{background: #f3c2c2;}
+.green{background: #baefba;}
+.blue{background: #9dc1d2;}
+.purple{background: #d2c0da;} 
